@@ -1,4 +1,3 @@
-<script>
         if (window.location.href.includes('webflow.io')) {
             // Create the button element
             var button = document.createElement('button');
@@ -136,4 +135,3 @@
                 isHighlighted = !isHighlighted;
             });
         }
-    </script>
