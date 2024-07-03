@@ -1,4 +1,4 @@
-if (window.location.href.includes('webflow.io') || window.location.href.includes('127.0.0.1')) {
+if (window.location.href.includes('127.0.0.1')) {
     // Create the button element
     var button = document.createElement('button');
     button.id = 'toggleButton';
